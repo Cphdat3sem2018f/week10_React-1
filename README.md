@@ -38,11 +38,13 @@ Skim [this](https://docs.google.com/document/d/1hF9P65v_AJKCjol_gFkm3oZ1eVTuOKc1
 ## Handling Large amounts of data client and/or server-side
 #### Read
 [Pagination in electronic display](https://en.wikipedia.org/wiki/Pagination#Pagination_in_electronic_display)
-[Play around with some of the examples here](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html) and skim the [documentation](https://react-bootstrap-table.github.io/react-bootstrap-table2/docs/about.html) for the library we will for this lesson
-
+Play around with some of the examples [here](https://react-bootstrap-table.github.io/react-bootstrap-table2/storybook/index.html) and skim the [documentation](https://react-bootstrap-table.github.io/react-bootstrap-table2/docs/about.html) for the library we will for this lesson
 
 #### Exercises
 [Handling large amounts of data](https://docs.google.com/document/d/15XRzm0SlW13eRUvQq8u19oAM9Jo2_iderDsnWlIBjsY/edit?usp=sharing)
+
+## Friday
+[exercises](https://docs.google.com/document/d/1MDLu8cWJCAokqhsPY_8jJu_RyUrJyLoh7HFXdz0M2oY/edit?usp=sharing)
 
 ## Business competences
 
