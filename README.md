@@ -9,7 +9,7 @@
 #### Read
 - [Watch this video about SPA (16 min)]( https://www.youtube.com/watch?v=F_BYg2QGsC0)
 - [Read about create-react-app](https://github.com/facebook/create-react-app/blob/master/README.md#creating-an-app) (how we are going to setup our React-apps)
-- [Watch and CODE ALONG step 1-7 from this tutorial](https://egghead.io/lessons/react-use-create-react-app-to-setup-a-simple-react-app) Important: A few things have changed since this video. Don't do this step: `npm i create-react-app -g` and when he gets to the part that creates the app, do like this instead: `npx create-react-app my-app` 
+- [Watch and CODE ALONG step 1-7 from this tutorial](https://egghead.io/lessons/react-use-create-react-app-to-setup-a-simple-react-app) Important: A few things have changed since this video. Skip this step: `npm i create-react-app -g` and when you create the app, do it like this (observe the npx): `npx create-react-app my-app` 
 - Watch/skim these sections in Facebook's tutorial (will be referred to from the exercises) [Components and Props](https://reactjs.org/docs/components-and-props.html) , [State and LifeCycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
 #### Exercises
