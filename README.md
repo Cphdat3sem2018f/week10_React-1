@@ -1,4 +1,5 @@
-# week10_React-1 (A-class)
+# week10_React Week-1 
+# A-class
 
 ### Before the start of this period you MUST, if not already done:
 - Install Node (important, install the LTS-version): https://nodejs.org/en/download/ 
@@ -45,7 +46,7 @@ Play around with some of the examples [here](https://react-bootstrap-table.githu
 [Handling large amounts of data](https://docs.google.com/document/d/15XRzm0SlW13eRUvQq8u19oAM9Jo2_iderDsnWlIBjsY/edit?usp=sharing)
 
 ## Friday
-[exercises](https://docs.google.com/document/d/1MDLu8cWJCAokqhsPY_8jJu_RyUrJyLoh7HFXdz0M2oY/edit?usp=sharing)
+[exercises](#)
 
 ## Business competences
 
