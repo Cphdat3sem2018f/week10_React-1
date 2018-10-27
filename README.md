@@ -1,5 +1,5 @@
 # week10_React Week-1 
-# A-class
+# A-Klassen
 
 ### Before the start of this period you MUST, if not already done:
 - Install Node (important, install the LTS-version): https://nodejs.org/en/download/ 
