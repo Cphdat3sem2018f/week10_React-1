@@ -16,6 +16,10 @@
 #### Exercises
 - [Exercises Day1](https://docs.google.com/document/d/1TsqQdtjqylsTo2yU5X5YIJJx0IoZ13_HrFI6LW3I43M/edit?usp=sharing)
 
+#### Slides
+- [Single Page Application, SPA-Frameworks + intro to React](http://sem3slides.mydemos.dk/react1/react1.html#1)
+- [React, the important parts](http://sem3slides.mydemos.dk/react2/react2.html#1)
+
 
 ## Tuesday - State and Lifecycle Methods, Forms, List and keys, Lifting state up
 #### Read
@@ -29,6 +33,9 @@ Read/skim these sections from the Facebook tutorial:
 
 #### Exercises
 - [Exercises Day2](https://docs.google.com/document/d/1EYmpm-ssahbIvax8t0MxOEjAhw9cEvt8Ggu-tMULZB0/edit?usp=sharing) 
+
+#### Slides
+- [React, the important parts](http://sem3slides.mydemos.dk/react2/react2.html#1)
 
 ## Wednesday - fetch, Promises and async-await
 #### Read
