@@ -1,6 +1,6 @@
 # week10_React Week-1 
 # A-Klassen
-
+### [snippet-file](https://docs.google.com/document/d/1NYl8v1M05yXElnNwNfcy1zdpvhXU5zx2wS65LZ4WtIk/edit?usp=sharing)
 ### Before the start of this period you MUST, if not already done:
 - Install Node (important, install the LTS-version): https://nodejs.org/en/download/ 
 - Install a new editor/IDE for JavaScript development, we suggest Visual Studio Code: https://code.visualstudio.com/download 
