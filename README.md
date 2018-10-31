@@ -55,7 +55,7 @@ Play around with some of the examples [here](https://react-bootstrap-table.githu
 [Handling large amounts of data](https://docs.google.com/document/d/15XRzm0SlW13eRUvQq8u19oAM9Jo2_iderDsnWlIBjsY/edit?usp=sharing)
 
 ## Friday
-[exercises](#)
+[StudyPoint-exercises](https://docs.google.com/document/d/1MDLu8cWJCAokqhsPY_8jJu_RyUrJyLoh7HFXdz0M2oY/edit?usp=sharing)
 
 ## Business competences
 
